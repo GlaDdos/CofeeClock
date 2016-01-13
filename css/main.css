@@ -12,3 +12,18 @@ body{
   padding-top: 10%;
   background-color: #4696e5;
 }
+
+.timer{
+  width: 20em;
+  height: 20em;
+  margin: auto;
+  border-radius: 10em;
+  background-color: yellow;
+}
+
+h1{
+  margin: auto;
+  padding-top: 40%;
+  font-size: 3em;
+  text-align: center;
+}
