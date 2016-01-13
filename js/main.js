@@ -42,7 +42,7 @@ function updateView(){
       time = breakLength;
     }
     else {
-      time = sessionLength;
+      time = sessionLengpth;
     }
     //clearInterval(setInterval);
   }
